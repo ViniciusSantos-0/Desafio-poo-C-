@@ -1,0 +1,14 @@
+C:\Users\edivini\Downloads\Dio POO C#\bin\Debug\net8.0\Dio POO C#.exe
+C:\Users\edivini\Downloads\Dio POO C#\bin\Debug\net8.0\Dio POO C#.deps.json
+C:\Users\edivini\Downloads\Dio POO C#\bin\Debug\net8.0\Dio POO C#.runtimeconfig.json
+C:\Users\edivini\Downloads\Dio POO C#\bin\Debug\net8.0\Dio POO C#.dll
+C:\Users\edivini\Downloads\Dio POO C#\bin\Debug\net8.0\Dio POO C#.pdb
+C:\Users\edivini\Downloads\Dio POO C#\obj\Debug\net8.0\Dio POO C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edivini\Downloads\Dio POO C#\obj\Debug\net8.0\Dio POO C#.AssemblyInfoInputs.cache
+C:\Users\edivini\Downloads\Dio POO C#\obj\Debug\net8.0\Dio POO C#.AssemblyInfo.cs
+C:\Users\edivini\Downloads\Dio POO C#\obj\Debug\net8.0\Dio POO C#.csproj.CoreCompileInputs.cache
+C:\Users\edivini\Downloads\Dio POO C#\obj\Debug\net8.0\Dio POO C#.dll
+C:\Users\edivini\Downloads\Dio POO C#\obj\Debug\net8.0\refint\Dio POO C#.dll
+C:\Users\edivini\Downloads\Dio POO C#\obj\Debug\net8.0\Dio POO C#.pdb
+C:\Users\edivini\Downloads\Dio POO C#\obj\Debug\net8.0\Dio POO C#.genruntimeconfig.cache
+C:\Users\edivini\Downloads\Dio POO C#\obj\Debug\net8.0\ref\Dio POO C#.dll
